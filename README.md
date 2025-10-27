@@ -1,4 +1,9 @@
 # Mall-Customer-Segmentation-using-K-Means-Clustering
+
+
+
+[Uploading Mall_Customers.csv…]()
+
  
 Overview
 
@@ -26,6 +31,7 @@ Age
 Annual Income (k$)
 
 Spending Score (1–100)
+[Uploading Mall_Customers.csv…]()
 
 
 
